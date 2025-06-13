@@ -1,0 +1,5 @@
+# Email bot dependencies
+# Add more as needed for advanced features
+imapclient
+pyzmail36
+email-validator
